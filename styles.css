@@ -22,7 +22,7 @@ body {
     align-items: center;
     justify-content: center;
     z-index: 1; /* Чтобы шапка была поверх всего остального */
-    background-image: url('shapka.png');
+    background-image: url('/shapka.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
